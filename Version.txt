@@ -1,1 +1,1 @@
-3.0.3 (https://github.com/ApexVisionOWNER/Nythera-Launcher/releases/latest/download/Nythera.Launcher.exe)
+3.0.4 (https://github.com/ApexVisionOWNER/Nythera-Launcher/releases/latest/download/Nythera.Launcher.exe)
